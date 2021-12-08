@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Exercício – Ciclo 3 - Interface Gráfica- IMC.iml" filepath="$PROJECT_DIR$/.idea/Exercício – Ciclo 3 - Interface Gráfica- IMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/calculadora-imc-python-tkinter.iml" filepath="$PROJECT_DIR$/.idea/calculadora-imc-python-tkinter.iml" />
     </modules>
   </component>
 </project>
